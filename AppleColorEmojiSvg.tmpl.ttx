@@ -118,7 +118,7 @@
   </OS_2>
 
   <hmtx>
-    <mtx name=".notdef" width="2550" lsb="0"/>
+    <mtx name=".notdef" width="680" lsb="0"/>
   </hmtx>
 
   <cmap>
@@ -167,7 +167,7 @@
   <post>
     <formatType value="3.0"/>
     <italicAngle value="0.0"/>
-    <underlinePosition value="-1244"/>
+    <underlinePosition value="-300"/>
     <underlineThickness value="131"/>
     <isFixedPitch value="1"/>
     <minMemType42 value="0"/>
